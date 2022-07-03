@@ -103,6 +103,6 @@ function game() {
     }
 }
 
-
+alert("Press F12 (Chrome) to View Console to Play!");
 game();
 
